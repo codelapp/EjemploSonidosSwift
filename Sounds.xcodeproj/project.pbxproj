@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -12,6 +12,15 @@
 		CF3C32251FB166B700181958 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32231FB166B700181958 /* Main.storyboard */; };
 		CF3C32271FB166B700181958 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32261FB166B700181958 /* Assets.xcassets */; };
 		CF3C322A1FB166B700181958 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32281FB166B700181958 /* LaunchScreen.storyboard */; };
+		CF3C323A1FB16A9300181958 /* moto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32311FB16A9200181958 /* moto.mp3 */; };
+		CF3C323B1FB16A9300181958 /* perro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32321FB16A9200181958 /* perro.mp3 */; };
+		CF3C323C1FB16A9300181958 /* carro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32331FB16A9200181958 /* carro.mp3 */; };
+		CF3C323D1FB16A9300181958 /* gato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32341FB16A9200181958 /* gato.mp3 */; };
+		CF3C323E1FB16A9300181958 /* pato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32351FB16A9200181958 /* pato.mp3 */; };
+		CF3C323F1FB16A9300181958 /* elefante.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32361FB16A9200181958 /* elefante.mp3 */; };
+		CF3C32401FB16A9300181958 /* Gallo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32371FB16A9300181958 /* Gallo.mp3 */; };
+		CF3C32411FB16A9300181958 /* avion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32381FB16A9300181958 /* avion.mp3 */; };
+		CF3C32421FB16A9300181958 /* train.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF3C32391FB16A9300181958 /* train.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		CF3C32261FB166B700181958 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF3C32291FB166B700181958 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF3C322B1FB166B700181958 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF3C32311FB16A9200181958 /* moto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moto.mp3; sourceTree = "<group>"; };
+		CF3C32321FB16A9200181958 /* perro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = perro.mp3; sourceTree = "<group>"; };
+		CF3C32331FB16A9200181958 /* carro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = carro.mp3; sourceTree = "<group>"; };
+		CF3C32341FB16A9200181958 /* gato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gato.mp3; sourceTree = "<group>"; };
+		CF3C32351FB16A9200181958 /* pato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pato.mp3; sourceTree = "<group>"; };
+		CF3C32361FB16A9200181958 /* elefante.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = elefante.mp3; sourceTree = "<group>"; };
+		CF3C32371FB16A9300181958 /* Gallo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gallo.mp3; sourceTree = "<group>"; };
+		CF3C32381FB16A9300181958 /* avion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = avion.mp3; sourceTree = "<group>"; };
+		CF3C32391FB16A9300181958 /* train.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = train.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +76,15 @@
 				CF3C32211FB166B700181958 /* ViewController.swift */,
 				CF3C32231FB166B700181958 /* Main.storyboard */,
 				CF3C32261FB166B700181958 /* Assets.xcassets */,
+				CF3C32381FB16A9300181958 /* avion.mp3 */,
+				CF3C32331FB16A9200181958 /* carro.mp3 */,
+				CF3C32361FB16A9200181958 /* elefante.mp3 */,
+				CF3C32371FB16A9300181958 /* Gallo.mp3 */,
+				CF3C32341FB16A9200181958 /* gato.mp3 */,
+				CF3C32311FB16A9200181958 /* moto.mp3 */,
+				CF3C32351FB16A9200181958 /* pato.mp3 */,
+				CF3C32321FB16A9200181958 /* perro.mp3 */,
+				CF3C32391FB16A9300181958 /* train.mp3 */,
 				CF3C32281FB166B700181958 /* LaunchScreen.storyboard */,
 				CF3C322B1FB166B700181958 /* Info.plist */,
 			);
@@ -92,7 +119,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
 				LastUpgradeCheck = 0910;
-				ORGANIZATIONNAME = "Jorge Maldonado Borbón";
+				ORGANIZATIONNAME = codelapp;
 				TargetAttributes = {
 					CF3C321B1FB166B700181958 = {
 						CreatedOnToolsVersion = 9.1;
@@ -101,7 +128,7 @@
 				};
 			};
 			buildConfigurationList = CF3C32171FB166B600181958 /* Build configuration list for PBXProject "Sounds" */;
-			compatibilityVersion = "Xcode 8.0";
+			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -123,8 +150,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF3C323F1FB16A9300181958 /* elefante.mp3 in Resources */,
+				CF3C323D1FB16A9300181958 /* gato.mp3 in Resources */,
+				CF3C32411FB16A9300181958 /* avion.mp3 in Resources */,
 				CF3C322A1FB166B700181958 /* LaunchScreen.storyboard in Resources */,
+				CF3C323E1FB16A9300181958 /* pato.mp3 in Resources */,
+				CF3C32421FB16A9300181958 /* train.mp3 in Resources */,
+				CF3C323A1FB16A9300181958 /* moto.mp3 in Resources */,
+				CF3C323B1FB16A9300181958 /* perro.mp3 in Resources */,
 				CF3C32271FB166B700181958 /* Assets.xcassets in Resources */,
+				CF3C323C1FB16A9300181958 /* carro.mp3 in Resources */,
+				CF3C32401FB16A9300181958 /* Gallo.mp3 in Resources */,
 				CF3C32251FB166B700181958 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -216,6 +252,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_COMPILATION_MODE = singlefile;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -265,7 +302,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -275,9 +313,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = WQWRXX9PHB;
 				INFOPLIST_FILE = Sounds/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jorge.Sounds;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.codelapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -289,9 +331,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = WQWRXX9PHB;
 				INFOPLIST_FILE = Sounds/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jorge.Sounds;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.codelapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
